@@ -32,7 +32,7 @@ public class LoginPage {
 	
 	public String getLoginPageTitle() {
 		return eleUtil.waitForTitleIs(constants.LOGIN_PAGE_TITLE, constants.DEFAULT_TIME_OUT);
-	}
+	}	
 	
 	public String getLoginPageUrl() {
 		return eleUtil.waitForUrlContains(constants.LOGIN_PAGE_URL_FRACTION, constants.DEFAULT_TIME_OUT);
