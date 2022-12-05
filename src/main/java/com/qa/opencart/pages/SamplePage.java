@@ -1,9 +1,10 @@
 package com.qa.opencart.pages;
 
-public class demoPage {
+public class SamplePage {
 
 	public static void main(String[] args) {
-		System.out.println("hi");
+		// TODO Auto-generated method stub
+
 	}
 
 }
