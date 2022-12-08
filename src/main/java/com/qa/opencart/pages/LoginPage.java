@@ -19,7 +19,6 @@ public class LoginPage {
 	private By forgotPwdLink = By.linkText("Forgotten Password");
 	private By registerLink = By.linkText("Register");
 	private By logoutSuccessMsg = By.cssSelector("div#common-success h1");
-	private By Neeta = By.cssSelector("Neeta1112");
 
 	//2. page constructor
 	
